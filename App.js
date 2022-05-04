@@ -3,7 +3,6 @@ import BottomTabNavigator from "./components/BottomTabNavigator";
 
 export default class App extends Component {
   render() {
-    //adicione a instrução de retorno para BottomTabNavigator
-    
+    return <BottomTabNavigator />;
   }
 }
